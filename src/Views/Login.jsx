@@ -38,7 +38,7 @@ export default function Login() {
             <div>
                 <Button
                     fullWidth
-                    className="bg-primario hover:bg-blue-700 text-white"
+                    color="blue"
                     type="submit"
                 >
                     Iniciar Sesión

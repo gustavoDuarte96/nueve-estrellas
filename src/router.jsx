@@ -7,7 +7,6 @@ import Index from "./Views/Index";
 import Jugadores from "./Views/Jugadores";
 
 const Router = createBrowserRouter([
-    //Si es /login o /password-recovery, utiliza el layout AuthLayout 
     {
         path: "/login",
         element: <AuthLayout />,
